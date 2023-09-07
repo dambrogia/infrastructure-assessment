@@ -40,3 +40,10 @@ output ec2_int_ip1 {
   description = "internal ip of web1"
   depends_on  = [aws_instance.web1]
 }
+
+output bastion_external_dns {
+  value       = aws_instance.bastion.public_dns
+  sensitive   = false
+  description = "public dns of bastion"
+  depends_on  = [aws_instance.bastion]
+}
