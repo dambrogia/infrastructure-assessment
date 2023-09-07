@@ -6,10 +6,11 @@ Create the following:
 - elastic load balancer (public network)
 - rds instance (private network)
 
+1. Branch off of `master` with a branch named `your-name`. **DO NOT SUBMIT A PR, JUST PUSH YOUR BRANCH TO THE ORIGIN**.
 1. Edit the pre-scaffolded `main.tf` and `security.tf` files to create the resources as described
-2. Add your public key to test.tfvars
-3. Run terraform to create the resources
-4. Take screenshots of your completed infrastructure as described in `example-images`, but place yours in `images`. `example-images` is missing a bastion image, please include one that shows MySQL client access + curl/http access to web nodes.
+1. Add your public key to test.tfvars
+1. Run terraform to create the resources
+1. Take screenshots of your completed infrastructure as described in `example-images`, but place yours in `images`. `example-images` is missing a bastion image, please include one that shows MySQL client access + curl/http access to web nodes.
 
 **If you run into any issues, feel free to hack away at the scaffolded .tf templates and share what issues you ran into.**
 
