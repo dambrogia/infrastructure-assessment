@@ -25,12 +25,12 @@ Create the following:
 ### Images
 ![terraform]
 
-[terraform]: images/terraform.png "Terraform Screenshot"
+[terraform]: example-images/terraform.png "Terraform Screenshot"
 
 ![loadbalancer]
 
-[loadbalancer]: images/loadbalancer.png "Loadbalancer Screenshot"
+[loadbalancer]: example-images/loadbalancer.png "Loadbalancer Screenshot"
 
 ![database]
 
-[database]: images/database.png "Database Screenshot"
+[database]: example-images/database.png "Database Screenshot"
