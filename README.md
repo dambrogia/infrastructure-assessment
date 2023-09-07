@@ -7,7 +7,7 @@ Create the following:
 - rds instance (private network)
 - security groups
 
-Do the above by following these steps:
+Do the requirements above by following these steps:
 
 1. Branch off of `master` with a branch named `your-name`.
     - **DO NOT SUBMIT A PR, JUST PUSH YOUR BRANCH TO THE ORIGIN**.
