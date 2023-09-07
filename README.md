@@ -7,7 +7,8 @@ Create the following:
 - rds instance (private network)
 - security groups
 
-1. Branch off of `master` with a branch named `your-name`. **DO NOT SUBMIT A PR, JUST PUSH YOUR BRANCH TO THE ORIGIN**.
+1. Branch off of `master` with a branch named `your-name`.
+    - **DO NOT SUBMIT A PR, JUST PUSH YOUR BRANCH TO THE ORIGIN**.
 1. Edit the pre-scaffolded `main.tf` and `security.tf` files to create the resources as described
 1. Add your public key to test.tfvars
 1. Run terraform to create the resources
